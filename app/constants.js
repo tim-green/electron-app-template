@@ -5,8 +5,8 @@ const Constants = {
   settings: {
     appName: 'appName',
     appUrl: 'https://www.timgreen.ws',
-    appUrlLogin: 'https://www.timgreen.ws',
-    appUrlAccount: 'https://www.timgreen.ws',
+    //appUrlLogin: 'https://www.timgreen.ws',
+    //appUrlAccount: 'https://www.timgreen.ws',
     nodeIntegrationEnabled: false,
     enableDevMenu: false,
     userAgentPostfixWindows: 'WindowsApp',
