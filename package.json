@@ -41,7 +41,7 @@
   ],
   "build": {
     "appId": "com.timgreen.APPIDHERE",
-    "productName": "Tim Green",
+    "productName": "AppName",
     "copyright": "",
     "mac": {
       "category": "public.app-category.website",
