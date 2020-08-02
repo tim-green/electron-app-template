@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# electron-app-template
-Electron App Template
-=======
 # Electron App Template
 #### Install Dependencies
 
@@ -32,4 +28,3 @@ Compiled builds will default to the directory /dist/
 ###### Keyboard Shortcuts
 - Close to Tray    - (Cmd or Ctrl) + W
 - Quit Application - (Cmd or Ctrl) + Q
->>>>>>> init
