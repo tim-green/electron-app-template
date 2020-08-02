@@ -1,0 +1,34 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.timgreen.rtdpa
+productName: Tim Green
+copyright: ''
+mac:
+  category: public.app-category.video
+  target:
+    - target: dmg
+  icon: build/icons/mac/icon.icns
+dmg: {}
+mas: {}
+win:
+  target:
+    - target: nsis
+  icon: build/icons/win/icon.ico
+  legalTrademarks: ''
+  publisherName: ''
+nsis:
+  oneClick: false
+  runAfterFinish: false
+  allowElevation: true
+appx:
+  applicationId: Tim Green
+  backgroundColor: '#00aeef'
+  displayName: TimGreen
+  identityName: TimGreen
+  publisher: ''
+  publisherDisplayName: TimGreen
+  languages:
+    - en
+portable: {}
+electronVersion: 9.0.0
